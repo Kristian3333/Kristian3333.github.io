@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /KristanGBarman.github.io/cv/
 title: cv
 nav: true
 nav_order: 4
