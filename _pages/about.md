@@ -11,9 +11,10 @@ profile:
     <p>Somewhere in Belgium</p>
  
 
+social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+
 ---
 
 Philosopher of science working on explanation, causation, and explanainable AI.
