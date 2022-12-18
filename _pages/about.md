@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Radboud University</a>. Address.  
 profile:
   align: right
-  image: assets/img/1.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: True # crops the image to make it circular
   address: >
     <p>Somewhere in Belgium</p>
