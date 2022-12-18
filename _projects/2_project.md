@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chess
-description: Chess
+title: Understanding in Machine Learning
+description: Isis(Radboud)
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Piano    
+title: OMGMO    
 description: Piano
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://omgmopodcast.com
 importance: 3
 category: work
 ---

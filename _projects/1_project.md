@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Explanation in the Engineering sciences (UGent)
-description: a project with a background image
+title: Explanation in the Engineering sciences 
+description: (UGent)
 img: assets/img/12.jpg
 importance: 1
 category: work

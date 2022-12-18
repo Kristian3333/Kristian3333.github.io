@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Piano
-description: a project with no image
+title: Coffee Stuff
+description: 
 img:
 importance: 4
 category: fun

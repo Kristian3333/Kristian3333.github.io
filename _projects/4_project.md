@@ -1,7 +1,7 @@
 ---
 layout: page
-title: OMGMO
-description: another without an image
+title: Piano
+description: now with keys
 img:
 importance: 3
 category: fun
