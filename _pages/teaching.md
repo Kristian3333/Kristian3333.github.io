@@ -10,9 +10,6 @@ nav_order: 5
 •(January 2023) Eindhoven: Participation in ‘Hybrid Workshop on the Philosophy of Large Language
 Models’.
 
-•(2023) University of Bologna: Invited speaker at Master class of Federico Faroldi: ‘A philosophical
-approach to Explainable AI’.
-
 •SPSP 2022 (Gent): Evaluating Accident Causation Models in Engineering Science.
 
 •Mathematics as Science, 2022(Gent): Task-based ‘distinctively’ mathematical explanations do not
