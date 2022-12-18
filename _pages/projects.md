@@ -1,8 +1,8 @@
 ---
 layout: page
 title: projects
-permalink: /KristanGBarman.github.io/projects/
-description: A growing collection of your cool projects.
+permalink: /projects/
+description: These are some of my projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
