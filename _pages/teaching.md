@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /speaking/
 title: Public Speaking
 description: 
 nav: true
