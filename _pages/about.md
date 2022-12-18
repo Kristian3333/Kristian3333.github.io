@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.ru.nl/en/people/gonzalez-barman-k'>Radboud University</a>.  
 profile:
