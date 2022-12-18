@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OMGMO
+title: Explanation in the Engineering sciences (UGent)
 description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
