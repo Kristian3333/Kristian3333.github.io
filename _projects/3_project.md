@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Piano    
 description: Piano
 img: assets/img/7.jpg
 redirect: https://unsplash.com

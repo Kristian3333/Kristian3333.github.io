@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Chess
 description: Chess
 img: assets/img/3.jpg
 importance: 2
