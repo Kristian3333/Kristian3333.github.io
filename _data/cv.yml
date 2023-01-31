@@ -46,7 +46,6 @@
 
 - title: Academic Interests
   type: nested_list
-  contents:
       items: 
         - Causal Explanation.
         - Explanainable AI.
