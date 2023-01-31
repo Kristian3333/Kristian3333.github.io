@@ -48,12 +48,12 @@
   type: nested_list
   contents: 
     -title: here's a non exhaustive list
-    items: 
-      - Causal Explanation
-      - Explanainable AI
-      - Deep Learning
-      - Philosophy of Science in Practice
-      - Philosophy of Mathematics
+      items: 
+        - Causal Explanation
+        - Explanainable AI
+        - Deep Learning
+        - Philosophy of Science in Practice
+        - Philosophy of Mathematics
 
 - title: Other Interests
   type: list
