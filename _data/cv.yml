@@ -17,7 +17,7 @@
       description: Explanation in the engineering sciences- IBE, causal modelling, and (fictional) mechanisms in failure analysis and safety science.
 
              
-    - title: InterUniversity Research Master (Ugent, UAntwerp, VUB)
+    - description: InterUniversity Research Master (Ugent, UAntwerp, VUB)
       institution:  
       year: 2018
 
@@ -25,7 +25,7 @@
 - title: Current position
   type: time_table
   contents:
-    - title: Postdoc in the project'Machine learning in natural science- bridging the gap from data to understanding' 
+    - description: Postdoc in the project 'Machine learning in natural science- bridging the gap from data to understanding' 
       institution: Radboud University
       year: 2022-2023
 
