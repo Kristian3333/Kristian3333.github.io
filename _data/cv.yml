@@ -47,7 +47,6 @@
 - title: Academic Interests
   type: list
   contents: 
-    -title: here's a non exhaustive list
      items: 
         - Causal Explanation
         - Explanainable AI
