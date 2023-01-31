@@ -45,10 +45,10 @@
 
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents: 
     -title: here's a non exhaustive list
-      items: 
+     items: 
         - Causal Explanation
         - Explanainable AI
         - Deep Learning
