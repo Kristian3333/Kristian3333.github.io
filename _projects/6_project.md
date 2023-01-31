@@ -2,7 +2,7 @@
 layout: page
 title: Coffee Stuff
 description: 
-img:
+img: assets/img/coffee.jpg
 importance: 4
 category: fun
 ---

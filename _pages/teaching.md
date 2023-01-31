@@ -7,8 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-•(January 2023) Eindhoven: Participation in ‘Hybrid Workshop on the Philosophy of Large Language
-Models’.
+• Hybrid Workshop on the Philosophy of Large Language Models (Eindhoven, 2023): The Understanding Test
 
 •SPSP 2022 (Gent): Evaluating Accident Causation Models in Engineering Science.
 

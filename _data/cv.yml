@@ -1,10 +1,12 @@
 - title: General Information
+          (for a more detailed CV see pdf)
   type: map
   contents:
     - name: Full Name
       value: Kristian C. Gonzalez Barman
     - name: Languages
       value: English, Spanish, Dutch
+    
 
 - title: Education
   type: time_table
@@ -12,21 +14,19 @@
     - title: PhD
       institution: Gent University, Gent, Belgium
       year: 2022
-      description:
-        - Explanation in Engineering science.....
-        - title:  
-          contents:
+      description: Explanation in the engineering sciences- IBE, causal modelling, and (fictional) mechanisms in failure analysis and safety science.
+
              
     - title: InterUniversity Research Master (Ugent, UAntwerp, VUB)
       institution:  
       year: 2018
 
 
-- title: Experience
+- title: Current position
   type: time_table
   contents:
-    - title: Postdoc
-      institution: Isis Radboud University
+    - title: Postdoc in the project'Machine learning in natural science- bridging the gap from data to understanding' 
+      institution: Radboud University
       year: 2022-2023
 
 - title: Open Source Projects
@@ -34,7 +34,7 @@
   contents:
     - title: <a href="https://omgmopodcast.com/">OMGMO</a>
       year: 2020
-      description: OMGMO.
+
 
 - title: Honors and Awards
   type: time_table
@@ -47,15 +47,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Explanation.
       items: 
-        - Causal explanation.
+        - Causal Explanation.
         - Explanainable AI.
-    - title: Philosophy of Science.
-      items:
-        - in practice.
+        - Deep Learning
+        - Philosophy of Science in Practice
+        - Philosophy of Mathematics
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Coffee research, blockchain , etc.
+    - <u>Hobbies:</u> Coffee research, blockchain, gym, etc.  
