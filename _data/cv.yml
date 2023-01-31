@@ -47,7 +47,6 @@
 - title: Academic Interests
   type: list
   contents: 
-     items: 
         - Causal Explanation
         - Explanainable AI
         - Deep Learning
