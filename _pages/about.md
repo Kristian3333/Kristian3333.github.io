@@ -17,5 +17,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
   
 ---
 
-Philosopher of science working on explanation, causation, and explanainable AI.
+Philosopher of science working on explanation, causation, and explainanable AI.
 
