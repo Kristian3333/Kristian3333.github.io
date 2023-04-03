@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-• Hybrid Workshop on the Philosophy of Large Language Models (Eindhoven, 2023): The Understanding Test
+•Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
+
+•Hybrid Workshop on the Philosophy of Large Language Models (Eindhoven, 2023): The Understanding Test
 
 •SPSP 2022 (Gent): Evaluating Accident Causation Models in Engineering Science.
 
