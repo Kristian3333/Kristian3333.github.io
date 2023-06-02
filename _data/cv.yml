@@ -19,14 +19,16 @@
     - title: ICES, Faculty of Sciences, Ghent University (Data Analysis 2021-2022)
       type: list
       content: 
-        - M19 - Machine Learning with Python 
-        - M18 - Artificial Neural Networks from the Ground Up
-        - M13 - Upgrade your Python Skills. Data Wrangling & Plotting
+        items:
+          - M19 - Machine Learning with Python 
+          - M18 - Artificial Neural Networks from the Ground Up
+          - M13 - Upgrade your Python Skills. Data Wrangling & Plotting
       year: 2022
 
     - description: InterUniversity Research Master (Ugent, UAntwerp, VUB)
       institution:  
       year: 2018
+
 
 
 
