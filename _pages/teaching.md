@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-•Invited speaker at The Institute for Science in Society colloqium: The Scientific Understanding Test (Nijmegen, 2023)
+•Invited speaker at The Institute for Science in Society colloquium: The Scientific Understanding Test (Nijmegen, 2023)
 
 •Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
 

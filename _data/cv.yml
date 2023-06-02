@@ -16,18 +16,16 @@
       year: 2022
       description: Explanation in the engineering sciences- IBE, causal modelling, and (fictional) mechanisms in failure analysis and safety science.
 
-    - description: M18 - Artificial Neural Networks from the Ground Up (Data Analysis 2021-2022). 
-      institution: ICES, Faculty of Sciences, Ghent University.  
-      year: 2022
 
-    - description: M19 - Machine Learning with Python (Data Analysis 2021-2022). 
-      institution: ICES, Faculty of Sciences, Ghent University.  
-      year: 2022
 
-    - description: M13 Upgrade your Python Skills. Data Wrangling & Plotting (Data Analysis 2021-2022). 
-      institution: ICES, Faculty of Sciences, Ghent University.  
+    - description: 
+    - M19 - Machine Learning with Python 
+    - M18 - Artificial Neural Networks from the Ground Up
+    - M13 - Upgrade your Python Skills. Data Wrangling & Plotting
+
+      institution: ICES, Faculty of Sciences, Ghent University (Data Analysis 2021-2022).  
       year: 2022
-           
+         
     - description: InterUniversity Research Master (Ugent, UAntwerp, VUB)
       institution:  
       year: 2018
@@ -60,7 +58,7 @@
   contents:
     - year: 2021
       items: 
-        - European Philosophy of Science Association Student Essay Award
+        - European Philosophy of Science Association Essay Award
 
 
 - title: Academic Interests
