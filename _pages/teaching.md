@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+•Invited speaker at The Institute for Science in Society colloqium: The Scientific Understanding Test (Nijmegen, 2023)
+
 •Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
 
 •Hybrid Workshop on the Philosophy of Large Language Models (Eindhoven, 2023): The Understanding Test
@@ -25,9 +27,6 @@ engineering sciences.
 
 •Invited speaker PSTS master students course in Twente (2022): AI and Machine‐Learning
 Technology.
-
-•SPSP 2020 (Accepted abstract but conference cancelled due to covid): Procedure for evaluating the
-quality of explanations in failure analysis.
 
 •OZSW Graduate Conference in Theoretical Philosophy 2019 (Tilburg University): IBE in engineering
 science –the case of malfunction explanation.
