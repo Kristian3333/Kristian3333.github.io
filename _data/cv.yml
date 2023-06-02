@@ -18,8 +18,7 @@
 
     - title: Data Analysis 2021-2022 (ICES, Faculty of Sciences, Ghent University)
       type: list
-      content: 
-        items:
+      items:
           - M19 Machine Learning with Python 
           - M18 Artificial Neural Networks from the Ground Up
           - M13 Upgrade your Python Skills. Data Wrangling & Plotting
