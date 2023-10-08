@@ -71,13 +71,14 @@ let transTheme = () => {
 let initTheme = (theme) => {
   if (theme == null || theme == 'null') {
     const userPref = window.matchMedia;
-    if (userPref && userPref('(prefers-color-scheme: dark)').matches) {
-        theme = 'dark';
+    if (userPref && userPref('(prefers-color-scheme: light)').matches) {
+        theme = 'light';
+    } else {
+        theme = 'dark'; // Set the default theme to dark.
     }
   }
 
   setTheme(theme);
 }
-
 
 initTheme(localStorage.getItem("theme"));
