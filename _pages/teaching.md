@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+•EPSA23 (Belgrade, September 2023): Measuring understanding in humans and machines. 
+
+•The International Association of Computing and Philosophy Conference (Prague, July 2023): Benchmarking Understanding of LLMs
+
+•Invited Lecture ML in physics Radboud University.
+
 •Invited speaker at The Institute for Science in Society colloquium: The Scientific Understanding Test (Nijmegen, 2023)
 
 •Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
