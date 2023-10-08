@@ -81,4 +81,4 @@ let initTheme = (theme) => {
   setTheme(theme);
 }
 
-initTheme(localStorage.getItem("theme"));
+initTheme(localStorage.getItem("theme") || 'null');
