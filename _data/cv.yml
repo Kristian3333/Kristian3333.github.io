@@ -7,6 +7,12 @@
     - name: Languages
       value: English, Spanish, Dutch
     
+- title: Current position
+  type: time_table
+  contents:
+    - description: Postdoctoral researcher in the project 'Explanation in Explainable AI' 
+      institution: Ghent University
+      year: 2023-2026
 
 - title: Education
   type: time_table
@@ -31,16 +37,14 @@
 
 
 
-- title: Current position
+
+
+- title: Past positions
   type: time_table
   contents:
     - description: Postdoctoral researcher in the project 'Machine learning in natural science- bridging the gap from data to understanding' 
       institution: Radboud University
       year: 2022-2023
-
-- title: Past positions
-  type: time_table
-  contents:
     - description: Predoctoral Researcher for the project 'Explanation in the engineering sciences'
       institution: University of Ghent
       year: 2019-2022
