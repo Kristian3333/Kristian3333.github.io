@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explanation in XAI
-description: 
+description: UGent 2023-2026
 img: assets/img/RISE.jpg
 importance: 4
 category: work
