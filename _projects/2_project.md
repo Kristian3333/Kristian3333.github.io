@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Understanding in Machine Learning
-description: Isis(Radboud)
+description: Isis(Radboud) 2022-2023
 img: assets/img/3.jpg
 importance: 2
 category: work
