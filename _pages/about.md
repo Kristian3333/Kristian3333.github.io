@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
   address: >
-    <p> Belgium </p>
+    <p> </p>
  
 
 social: true  # includes social icons at the bottom of the page
