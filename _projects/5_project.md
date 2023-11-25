@@ -7,4 +7,4 @@ importance: 3
 category: fun
 ---
 
-Play me in chess.com... my handle: (I forgot it atm, but will check soon)
+Play me in chess.com...  

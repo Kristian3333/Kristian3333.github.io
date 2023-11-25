@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Piano
-description: now with keys
+description: 
 img: assets/img/piano.jpg
 importance: 3
 category: fun
