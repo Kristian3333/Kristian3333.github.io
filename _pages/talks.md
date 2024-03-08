@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /speaking/
-title: Public Speaking
+permalink: /talks/
+title: talks
 description: 
 nav: true
 nav_order: 5
