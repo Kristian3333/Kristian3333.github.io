@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /management/
-title: management
+title: Management
 description: 
 nav: true
 nav_order: 6
