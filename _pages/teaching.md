@@ -7,11 +7,17 @@ nav: true
 nav_order: 5
 ---
 
+•ALO seminar (Brussels, February 2023): Measuring understanding in humans and machines: Inference to the Best explanation in Explainable AI
+
+•Lorentz Workshop (Leiden, January 2024)
+
+•5th Conference on "Philosophy of Artificial Intelligence" (Erlangen, December 2023): IBE in XAI
+
 •EPSA23 (Belgrade, September 2023): Measuring understanding in humans and machines. 
 
 •The International Association of Computing and Philosophy Conference (Prague, July 2023): Benchmarking Understanding of LLMs
 
-•Invited Lecture ML in physics Radboud University.
+•Invited Lecture ML in physics Radboud University (Nijmegen, 2023).
 
 •Invited speaker at The Institute for Science in Society colloquium: The Scientific Understanding Test (Nijmegen, 2023)
 
