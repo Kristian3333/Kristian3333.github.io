@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: 
 nav: true
 nav_order: 5
 ---
 
-•ALO seminar (Brussels, February 2023): Measuring understanding in humans and machines: Inference to the Best explanation in Explainable AI
+•ALO seminar (Brussels, February 2023): Measuring understanding in humans and machines: Inference to the Best Explanation in Explainable AI
 
 •Lorentz Workshop (Leiden, January 2024)
 
