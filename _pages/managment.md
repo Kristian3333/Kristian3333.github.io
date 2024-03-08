@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /experience/
-title: Engagements
+permalink: /management/
+title: management
 description: 
 nav: true
 nav_order: 6
