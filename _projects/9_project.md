@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Physics & question-answering machines- artificial scientific understanding?
+title:  Physics & QAMs
 description: Lorentz Workshop 2024
 img: assets/img/poster.jpg
 importance: 4

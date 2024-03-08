@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Can Question-Answering Systems make new discoveries in physics? An investigation into collaboration dynamics and epistemic authority
+title:  AI collaboration dynamics
 description: Radboud 2023-2024
 img: assets/img/discovery.jpg
 importance: 4
