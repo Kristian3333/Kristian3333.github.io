@@ -21,9 +21,9 @@ Teaching/ Assisting Courses:
     -Fundamental issues in the philosophy of science (Master, UGent) (2023)
     -Philosophy of Mathematics and Natural Sciences (InterUniversity Research Master)(2023)
 
-Funded projects:
+Funded projects/Awarded Grants:
 
     -Lorentz workshop
-    -FWO
-    -IRP Voucher
+    -FWO (~220K)
+    -IRP Voucher (50K)
  
