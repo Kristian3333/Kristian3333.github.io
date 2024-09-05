@@ -9,7 +9,7 @@ nav_order: 5
 
     -ALO seminar (Brussels, February 2023): Measuring understanding in humans and machines: Inference to the Best Explanation in Explainable AI
 
-    -Lorentz Workshop (Leiden, January 2024)
+    -Lorentz Workshop (Leiden, January 2024): Physics & question-answering machines: artificial scientific understanding?
 
     -5th Conference on "Philosophy of Artificial Intelligence" (Erlangen, December 2023): IBE in XAI
 
