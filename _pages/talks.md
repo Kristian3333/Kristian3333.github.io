@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-    -ALO seminar (Brussels, February 2023): Measuring understanding in humans and machines: Inference to the Best Explanation in Explainable AI
+    -Invited speaker at the Institute for Science in Society colloquium (Nijmegen, 2024): Reinforcement learning from human feedback: whose culture, whose values, whose perspectives?
+
+    -ALO seminar (Brussels, February 2023): Inference to the Best Explanation in Explainable AI
 
     -Lorentz Workshop (Leiden, January 2024): Physics & question-answering machines: artificial scientific understanding?
 
@@ -19,7 +21,7 @@ nav_order: 5
 
     -Invited Lecture ML in physics Radboud University (Nijmegen, 2023).
 
-    -Invited speaker at The Institute for Science in Society colloquium: The Scientific Understanding Test (Nijmegen, 2023)
+    -Invited speaker at the Institute for Science in Society colloquium (Nijmegen, 2023): The Scientific Understanding Test 
 
     -Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
 
