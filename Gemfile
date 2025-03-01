@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '3.0.2.107'  # Use an older, more stable Ruby version
+ruby '3.0.2'  # Use an older, more stable Ruby version
 
 group :jekyll_plugins do
     gem 'jekyll', '~> 4.2.2'
