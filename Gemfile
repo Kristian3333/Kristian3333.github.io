@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
+ruby '2.7.4'  # Use an older, more stable Ruby version
+
 group :jekyll_plugins do
-    gem 'jekyll', '~> 4.2.0'
+    gem 'jekyll', '~> 4.2.2'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
@@ -16,9 +18,12 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'uri', '0.10.1'   
 end
+
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+# Fix for the URI gem conflict
+gem 'webrick', '~> 1.7'
