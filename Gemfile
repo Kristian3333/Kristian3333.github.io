@@ -24,6 +24,4 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
-
-# Fix for the URI gem conflict
-gem 'webrick', '~> 1.7'
+ 
