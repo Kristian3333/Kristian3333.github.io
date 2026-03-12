@@ -8,17 +8,17 @@ middle_name:
 last_name: 
 email: kristiancampbell.gonzalezbarman@ugent.be 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Philosopher of science.
+  Principal Investigator at Ghent University. Research on philosophy of science, explainable AI, mechanistic interpretability, and scientific understanding.
 footer_text: >
   
-keywords: # add your own keywords or leave empty
+keywords: philosophy of science, explainable AI, XAI, mechanistic interpretability, large language models, scientific understanding, philosophy of AI
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: prof_pic.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://kristian3333.github.io/ # the base hostname & protocol for your site
+url: https://kristiangbarman.com # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -51,47 +51,22 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: kristian-gonzález-007298130
-telegram_username: # your Telegram user name
 scholar_userid: zVDXhhUAAAAJ
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
 research_gate_profile: https://www.researchgate.net/profile/Kristian-Gonzalez-Barman
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
 kaggle_id: https://www.kaggle.com/kristiangonzlez
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   You can contact me in any of these media.
@@ -100,11 +75,8 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
-
+google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -119,32 +91,20 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 pagination:
   enabled: true
 
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out
-# the information below.
-giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# Giscus comments
+# To enable, follow instructions on https://giscus.app/ and fill in your repo details below.
+# giscus:
+#   repo:                          # <your-github-user-name>/<your-github-repo-name>
+#   repo_id:
+#   category: Comments
+#   category_id:
+#   mapping: title
+#   strict: 1
+#   reactions_enabled: 1
+#   input_position: bottom
+#   theme: preferred_color_scheme
+#   emit_metadata: 0
+#   lang: en
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -245,8 +205,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Gonzalez Barman]
-  first_name: [Kristian]
+  last_name: [Gonzalez Barman, González Barman]
+  first_name: [Kristian, K.]
 
   style: apa
   locale: en
@@ -321,19 +281,16 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
-enable_masonry:             true   # enables automatic project cards arangement
+enable_google_analytics:    false # set to true and add measurement ID above when ready
+enable_panelbear_analytics: false
+enable_google_verification: false
+enable_bing_verification:   false
+enable_masonry:             true   # enables automatic project cards arrangement
 enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
+enable_tooltips:            false
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
+enable_navbar_social:       false
+enable_project_categories:  true   # enables categorization of projects into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 

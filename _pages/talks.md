@@ -2,48 +2,66 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: 
+description: A selection of invited and contributed talks.
 nav: true
 nav_order: 5
 ---
 
-    -Invited speaker at the Institute for Science in Society colloquium (Nijmegen, 2024): Reinforcement learning from human feedback: whose culture, whose values, whose perspectives?
+## Invited Talks
 
-    -ALO seminar (Brussels, February 2023): Inference to the Best Explanation in Explainable AI
+- **LT3 Language and Translation Technology Team**: *Understanding LLMs for Science: From Benchmarks to Mechanisms* (Ghent, March 2026)
 
-    -Lorentz Workshop (Leiden, January 2024): Physics & question-answering machines: artificial scientific understanding?
+- **Radboud University**: *Does Mechanistic Interpretability Really Open the Black Box?* (Nijmegen, March 2026)
 
-    -5th Conference on "Philosophy of Artificial Intelligence" (Erlangen, December 2023): IBE in XAI
+- **Computing Challenges and AI Opportunities for Future Colliders** workshop: *When AI Becomes the Theorist* (Geneva, Switzerland, October 2025)
 
-    -EPSA23 (Belgrade, September 2023): Measuring understanding in humans and machines. 
+- **University of Cincinnati**: *Selected Effect Functions in GenAI Artefacts* (Cincinnati, USA, September 2025)
 
-    -The International Association of Computing and Philosophy Conference (Prague, July 2023): Benchmarking Understanding of LLMs
+- **Purdue University**: *The New Science of Artificial Intelligence* (Purdue, USA, September 2025)
 
-    -Invited Lecture ML in physics Radboud University (Nijmegen, 2023).
+- **Butler University**: *Mechanistic Interpretability for AI Safety: It's Time to Open the Black Box* (Indianapolis, USA, September 2025)
 
-    -Invited speaker at the Institute for Science in Society colloquium (Nijmegen, 2023): The Scientific Understanding Test 
+- **Allianz Onderzoek Seminar**: *Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?* (Ghent, 2024)
 
-    -Invited speaker in seminar on How  Large Language Models increase scientific understanding in physics. Institute for Mathematics, Astrophysics and Particle Physics  (2023, Nijmegen)
+- **Institute for Science in Society Colloquium**: *Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?* (Nijmegen, 2024)
 
-    -Hybrid Workshop on the Philosophy of Large Language Models (Eindhoven, 2023): The Understanding Test
+- **Allianz Onderzoek Seminar**: *IBE in XAI* (Brussels, 2024)
 
-    -SPSP 2022 (Gent): Evaluating Accident Causation Models in Engineering Science.
+- **Lorentz Workshop**: *The Understanding Benchmark* (Leiden, 2024)
 
-    -Mathematics as Science, 2022(Gent): Task-based ‘distinctively’ mathematical explanations do not
-    address physical facts.
+- **Radboud University**: *Machine Learning in Physics* (Nijmegen, 2023)
 
-    -Mechanisms in Ghent 2022 (Gent): An account of fictional mechanisms by constraint.
+- **Institute for Science in Society Colloquium**: *The Scientific Understanding Test* (Nijmegen, 2023)
 
-    -EPSA 2021 (Turin): Explanatory Holes? Testing the Limits of the Mechanistic Framework.
+- **Institute for Mathematics, Astrophysics and Particle Physics Seminar**: *How Large Language Models Increase Scientific Understanding in Physics* (Nijmegen, 2023)
 
-    -Invited speaker HPS colloquium at Ruhr-Universität Bochum (2021): on explanation in the
-    engineering sciences.
+- **Hybrid Workshop on the Philosophy of Large Language Models**: *The Understanding Test* (Eindhoven, January 2023)
 
-    -Invited speaker PSTS master students course in Twente (2022): AI and Machine‐Learning
-    Technology.
+- **University of Twente (PSTS Master Course)**: *AI and Machine-Learning Technology* (Twente, 2022)
 
-    -OZSW Graduate Conference in Theoretical Philosophy 2019 (Tilburg University): IBE in engineering
-    science –the case of malfunction explanation.
+- **Allianz Onderzoek Seminars, Ghent University**: Appointed Commentator on Uskali Mäki (2019), Francisco Guala (2021), and Mieke Boon (2021)
 
-    -Appointed Commentator at ALO seminars UGent: Uskali Mäki (2019), Francisco Guala (2021), Mieke
-    Boon (2021).
+
+## Contributed Talks
+
+- **EPSA 2025** (Groningen, 2025): *Optimality Explanations & Common Causes*
+
+- **EPSA 2025 Poster** (Groningen, 2025): *Pluralistic RLHF: Leveraging Philosophy of Science and Social Epistemology to Improve Large Language Models*
+
+- **5th Conference on Philosophy of AI (PhAI)** (Erlangen, December 2023): *Inference to the Best Explanation in Explainable AI*
+
+- **EPSA 2023** (Belgrade, September 2023): *Measuring Understanding in Humans and Machines*
+
+- **The International Association of Computing and Philosophy Conference** (Prague, July 2023): *Benchmarking Understanding of LLMs*
+
+- **SPSP 2022** (Ghent): *Evaluating Accident Causation Models in Engineering Science*
+
+- **Mathematics as Science** (Ghent, 2022): *Task-based 'Distinctively' Mathematical Explanations Do Not Address Physical Facts*
+
+- **Mechanisms in Ghent 2022** (Ghent): *An Account of Fictional Mechanisms by Constraint*
+
+- **EPSA 2021** (Turin): *Explanatory Holes? Testing the Limits of the Mechanistic Framework*
+
+- **HPS Colloquium, Ruhr-Universität Bochum** (2021): *On Explanation in the Engineering Sciences*
+
+- **OZSW Graduate Conference in Theoretical Philosophy** (Tilburg University, 2019): *IBE in Engineering Science: The Case of Malfunction Explanation*

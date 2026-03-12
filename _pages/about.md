@@ -12,13 +12,16 @@ profile:
  
 
 social: true  # includes social icons at the bottom of the page
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
   
 ---
-Hello! I'm Kristian, a philosopher of science working on explanation, causation, and explainable AI.
+Hello! I'm Kristian, a philosopher of science and Principal Investigator at the [Centre for Logic and Philosophy of Science](https://research.flw.ugent.be/en/centre-logic-and-philosophy-science) at Ghent University, where I lead the FWO-funded project *Explanation in Explainable AI*.
 
-Currently, I'm a Postdoctoral Researcher at Ghent University, looking into how explanations work in Explainable AI. Previously, I spent a year at the ISIS institute in the Faculty of Science at Radboud University, engaging in interdisciplinary research that spanned philosophy, physics, and computer science, looking at the topic of scientific understanding through and by AI.  My PhD focused on explanation in the engineering sciences, consisting of a blend of causal modelling, safety science, and the study of explanatory mechanisms in failure analysis. 
+My research sits at the intersection of philosophy of science, artificial intelligence, and scientific practice. I work on how explanations function in Explainable AI (XAI), what it means for AI systems to exhibit scientific understanding, and how mechanistic interpretability can help us open the black box of large language models. A through-line in my work is bridging philosophy and real scientific practice: developing benchmarks, guidelines, and conceptual tools that shape how researchers and practitioners actually build and evaluate AI systems.
 
-My academic interests lie at the nexus of Causal Explanation, Explainable AI, Deep Learning, Large Language Models, and the Philosophy of Science in Practice.
-When not immersed in research, I indulge in coffee research and consumption, programming, playing the piano, exploring blockchain technology applications, hitting the gym, and playing chess. 
+Before coming to Ghent, I spent a year at the Institute for Science in Society at Radboud University, working at the crossroads of philosophy, physics, and computer science on scientific understanding through AI. My PhD (Ghent, 2023) focused on explanation in the engineering sciences, blending causal modelling, safety science, and the study of explanatory mechanisms in failure analysis.
+
+I teach philosophy of science at master's level across Ghent University, the University of Antwerp, and the Vrije Universiteit Brussel, and I supervise PhD research on functional explanation. I also collaborate on projects spanning physics benchmarking, responsible AI in the EOSC-ARENA Horizon Europe consortium, and the philosophy of medical AI. Outside of academia, I co-host the [OMGMO podcast](https://omgmo.click) on the philosophy of biotechnology.
+
+When not immersed in research, you can find me at the gym, playing the piano, or playing chess.
