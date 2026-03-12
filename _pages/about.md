@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://research.flw.ugent.be//nl/kristiancampbell.gonzalezbarman'>Ghent University</a>.  
+subtitle: <a href='https://www.ugent.be/en'>Ghent University</a>.  
 profile:
   align: right
   image: prof_pic.jpg
@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
   
 ---
-Hello! I'm Kristian, a philosopher of science and Principal Investigator at the [Centre for Logic and Philosophy of Science](https://research.flw.ugent.be/en/centre-logic-and-philosophy-science) at Ghent University, where I lead the FWO-funded project *Explanation in Explainable AI*.
+Hello! I'm Kristian, a philosopher of science and Principal Investigator at the Centre for Logic and Philosophy of Science at Ghent University, where I lead the FWO-funded project *Explanation in Explainable AI*.
 
 My research sits at the intersection of philosophy of science, artificial intelligence, and scientific practice. I work on how explanations function in Explainable AI (XAI), what it means for AI systems to exhibit scientific understanding, and how mechanistic interpretability can help us open the black box of large language models. A through-line in my work is bridging philosophy and real scientific practice: developing benchmarks, guidelines, and conceptual tools that shape how researchers and practitioners actually build and evaluate AI systems.
 
