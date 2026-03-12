@@ -139,12 +139,4 @@ nav_order: 6
   </p>
 </div>
 
-<!-- ───────────────── SCIENCE COMMUNICATION ───────────────── -->
-
-<h2 class="mt-5">Science Communication</h2>
-<div class="mt-3">
-  <p>Co-host and co-founder of the <a href="https://omgmo.click"><strong>OMGMO podcast</strong></a>, a science communication project on the philosophy of biotechnology covering topics from GMO debates to synthetic biology ethics.</p>
-  <p><em>"Let's Talk Science"</em> — Science Audience Communication training (2020)</p>
-</div>
-
 </div>
