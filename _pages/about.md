@@ -22,6 +22,6 @@ My research sits at the intersection of philosophy of science, artificial intell
 
 Before coming to Ghent, I spent a year at the Institute for Science in Society at Radboud University, working at the crossroads of philosophy, physics, and computer science on scientific understanding through AI. My PhD (Ghent, 2023) focused on explanation in the engineering sciences, blending causal modelling, safety science, and the study of explanatory mechanisms in failure analysis.
 
-I teach philosophy of science at master's level across Ghent University, the University of Antwerp, and the Vrije Universiteit Brussel, and I supervise PhD research on functional explanation. I also collaborate on projects spanning physics benchmarking, responsible AI in the EOSC-ARENA Horizon Europe consortium, and the philosophy of medical AI. Outside of academia, I co-host the [OMGMO podcast](https://omgmo.click) on the philosophy of biotechnology.
+I teach philosophy of science at master's level across Ghent University, the University of Antwerp, and the Vrije Universiteit Brussel, and I supervise PhD research on functional explanation. I also collaborate on projects spanning physics benchmarking, responsible AI, and the philosophy of medical AI.
 
 When not immersed in research, you can find me at the gym, playing the piano, or playing chess.
