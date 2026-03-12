@@ -7,61 +7,280 @@ nav: true
 nav_order: 5
 ---
 
-## Invited Talks
+<div class="talks">
 
-- **LT3 Language and Translation Technology Team**: *Understanding LLMs for Science: From Benchmarks to Mechanisms* (Ghent, March 2026)
+<!-- ───────────────── INVITED TALKS ───────────────── -->
 
-- **Radboud University**: *Does Mechanistic Interpretability Really Open the Black Box?* (Nijmegen, March 2026)
+<h2 class="mt-4">Invited Talks</h2>
 
-- **Computing Challenges and AI Opportunities for Future Colliders** workshop: *When AI Becomes the Theorist* (Geneva, Switzerland, October 2025)
+<h4 class="mt-4 mb-3"><span class="badge badge-dark">2026</span></h4>
 
-- **University of Cincinnati**: *Selected Effect Functions in GenAI Artefacts* (Cincinnati, USA, September 2025)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Understanding LLMs for Science: From Benchmarks to Mechanisms</strong>
+        <br><span class="text-muted">LT3 Language and Translation Technology Team</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Ghent</span>
+    </div>
+  </div>
+</div>
 
-- **Purdue University**: *The New Science of Artificial Intelligence* (Purdue, USA, September 2025)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Does Mechanistic Interpretability Really Open the Black Box?</strong>
+        <br><span class="text-muted">Radboud University</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Nijmegen</span>
+    </div>
+  </div>
+</div>
 
-- **Butler University**: *Mechanistic Interpretability for AI Safety: It's Time to Open the Black Box* (Indianapolis, USA, September 2025)
+<h4 class="mt-4 mb-3"><span class="badge badge-dark">2025</span></h4>
 
-- **Allianz Onderzoek Seminar**: *Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?* (Ghent, 2024)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>When AI Becomes the Theorist</strong>
+        <br><span class="text-muted">Computing Challenges and AI Opportunities for Future Colliders workshop</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Geneva</span>
+    </div>
+  </div>
+</div>
 
-- **Institute for Science in Society Colloquium**: *Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?* (Nijmegen, 2024)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Selected Effect Functions in GenAI Artefacts</strong>
+        <br><span class="text-muted">University of Cincinnati</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Cincinnati, USA</span>
+    </div>
+  </div>
+</div>
 
-- **Allianz Onderzoek Seminar**: *IBE in XAI* (Brussels, 2024)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>The New Science of Artificial Intelligence</strong>
+        <br><span class="text-muted">Purdue University</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Purdue, USA</span>
+    </div>
+  </div>
+</div>
 
-- **Lorentz Workshop**: *The Understanding Benchmark* (Leiden, 2024)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Mechanistic Interpretability for AI Safety: It's Time to Open the Black Box</strong>
+        <br><span class="text-muted">Butler University</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Indianapolis, USA</span>
+    </div>
+  </div>
+</div>
 
-- **Radboud University**: *Machine Learning in Physics* (Nijmegen, 2023)
+<h4 class="mt-4 mb-3"><span class="badge badge-dark">2024</span></h4>
 
-- **Institute for Science in Society Colloquium**: *The Scientific Understanding Test* (Nijmegen, 2023)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?</strong>
+        <br><span class="text-muted">Allianz Onderzoek Seminar</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Ghent</span>
+    </div>
+  </div>
+</div>
 
-- **Institute for Mathematics, Astrophysics and Particle Physics Seminar**: *How Large Language Models Increase Scientific Understanding in Physics* (Nijmegen, 2023)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Reinforcement Learning from Human Feedback: Whose Culture, Whose Values, Whose Perspectives?</strong>
+        <br><span class="text-muted">Institute for Science in Society Colloquium</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Nijmegen</span>
+    </div>
+  </div>
+</div>
 
-- **Hybrid Workshop on the Philosophy of Large Language Models**: *The Understanding Test* (Eindhoven, January 2023)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>IBE in XAI</strong>
+        <br><span class="text-muted">Allianz Onderzoek Seminar</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Brussels</span>
+    </div>
+  </div>
+</div>
 
-- **University of Twente (PSTS Master Course)**: *AI and Machine-Learning Technology* (Twente, 2022)
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>The Understanding Benchmark</strong>
+        <br><span class="text-muted">Lorentz Workshop</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Leiden</span>
+    </div>
+  </div>
+</div>
 
-- **Allianz Onderzoek Seminars, Ghent University**: Appointed Commentator on Uskali Mäki (2019), Francisco Guala (2021), and Mieke Boon (2021)
+<h4 class="mt-4 mb-3"><span class="badge badge-dark">2023</span></h4>
 
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>Machine Learning in Physics</strong>
+        <br><span class="text-muted">Radboud University</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Nijmegen</span>
+    </div>
+  </div>
+</div>
 
-## Contributed Talks
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>The Scientific Understanding Test</strong>
+        <br><span class="text-muted">Institute for Science in Society Colloquium</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Nijmegen</span>
+    </div>
+  </div>
+</div>
 
-- **EPSA 2025** (Groningen, 2025): *Optimality Explanations & Common Causes*
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>How Large Language Models Increase Scientific Understanding in Physics</strong>
+        <br><span class="text-muted">IMAPP Seminar</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Nijmegen</span>
+    </div>
+  </div>
+</div>
 
-- **EPSA 2025 Poster** (Groningen, 2025): *Pluralistic RLHF: Leveraging Philosophy of Science and Social Epistemology to Improve Large Language Models*
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>The Understanding Test</strong>
+        <br><span class="text-muted">Hybrid Workshop on the Philosophy of Large Language Models</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Eindhoven</span>
+    </div>
+  </div>
+</div>
 
-- **5th Conference on Philosophy of AI (PhAI)** (Erlangen, December 2023): *Inference to the Best Explanation in Explainable AI*
+<h4 class="mt-4 mb-3"><span class="badge badge-dark">2019 - 2022</span></h4>
 
-- **EPSA 2023** (Belgrade, September 2023): *Measuring Understanding in Humans and Machines*
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div class="d-flex justify-content-between align-items-start">
+      <div>
+        <strong>AI and Machine-Learning Technology</strong>
+        <br><span class="text-muted">University of Twente, PSTS Master Course</span>
+      </div>
+      <span class="badge badge-light border ml-2" style="white-space: nowrap;">Twente, 2022</span>
+    </div>
+  </div>
+</div>
 
-- **The International Association of Computing and Philosophy Conference** (Prague, July 2023): *Benchmarking Understanding of LLMs*
+<div class="card mb-2">
+  <div class="card-body py-2 px-3">
+    <div>
+      <strong>Appointed Commentator at ALO Seminars, Ghent University</strong>
+      <br><span class="text-muted">On Uskali M&auml;ki (2019), Francisco Guala (2021), and Mieke Boon (2021)</span>
+    </div>
+  </div>
+</div>
 
-- **SPSP 2022** (Ghent): *Evaluating Accident Causation Models in Engineering Science*
+<!-- ───────────────── CONTRIBUTED TALKS ───────────────── -->
 
-- **Mathematics as Science** (Ghent, 2022): *Task-based 'Distinctively' Mathematical Explanations Do Not Address Physical Facts*
+<h2 class="mt-5">Contributed Talks</h2>
 
-- **Mechanisms in Ghent 2022** (Ghent): *An Account of Fictional Mechanisms by Constraint*
+<table class="table table-sm mt-3">
+  <thead>
+    <tr>
+      <th style="width: 15%;">Year</th>
+      <th style="width: 30%;">Venue</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2025</td>
+      <td>EPSA, Groningen</td>
+      <td><em>Optimality Explanations &amp; Common Causes</em></td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td>EPSA, Groningen <span class="badge badge-info">poster</span></td>
+      <td><em>Pluralistic RLHF: Leveraging Philosophy of Science and Social Epistemology to Improve Large Language Models</em></td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>PhAI, Erlangen</td>
+      <td><em>Inference to the Best Explanation in Explainable AI</em></td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>EPSA, Belgrade</td>
+      <td><em>Measuring Understanding in Humans and Machines</em></td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td>IACAP, Prague</td>
+      <td><em>Benchmarking Understanding of LLMs</em></td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>SPSP, Ghent</td>
+      <td><em>Evaluating Accident Causation Models in Engineering Science</em></td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Mathematics as Science, Ghent</td>
+      <td><em>Task-based 'Distinctively' Mathematical Explanations Do Not Address Physical Facts</em></td>
+    </tr>
+    <tr>
+      <td>2022</td>
+      <td>Mechanisms in Ghent</td>
+      <td><em>An Account of Fictional Mechanisms by Constraint</em></td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>EPSA, Turin</td>
+      <td><em>Explanatory Holes? Testing the Limits of the Mechanistic Framework</em></td>
+    </tr>
+    <tr>
+      <td>2021</td>
+      <td>HPS Colloquium, Ruhr-Universit&auml;t Bochum</td>
+      <td><em>On Explanation in the Engineering Sciences</em></td>
+    </tr>
+    <tr>
+      <td>2019</td>
+      <td>OZSW, Tilburg University</td>
+      <td><em>IBE in Engineering Science: The Case of Malfunction Explanation</em></td>
+    </tr>
+  </tbody>
+</table>
 
-- **EPSA 2021** (Turin): *Explanatory Holes? Testing the Limits of the Mechanistic Framework*
-
-- **HPS Colloquium, Ruhr-Universität Bochum** (2021): *On Explanation in the Engineering Sciences*
-
-- **OZSW Graduate Conference in Theoretical Philosophy** (Tilburg University, 2019): *IBE in Engineering Science: The Case of Malfunction Explanation*
+</div>
